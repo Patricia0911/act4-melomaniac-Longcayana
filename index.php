@@ -54,6 +54,8 @@
                         <h2 class='fw-bolder'>"SONG LISTS"</h2><br>
                         <ul class="list-inline-item mb-0" type='none'>
                         <li><h7 class='fw-bolder'>Song 1 - "Easy On Me"</h7><i> - Song Composer: Adele</i></li>
+                        <li><h7 class='fw-bolder'>Song 2 - "Make it Real"</h7><i> - Song Composer: The gets</i></li>
+
                         </ul>
                     </div>
                 </div>
