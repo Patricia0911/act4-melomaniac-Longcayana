@@ -53,6 +53,7 @@
                     <div class="col-lg-12 text-center">
                         <h2 class='fw-bolder'>"SONG LISTS"</h2><br>
                         <ul class="list-inline-item mb-0" type='none'>
+                        <li><h7 class='fw-bolder'>Song 1 - "Easy On Me"</h7><i> - Song Composer: Adele</i></li>
                         </ul>
                     </div>
                 </div>
