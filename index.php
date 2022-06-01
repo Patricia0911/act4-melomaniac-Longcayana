@@ -57,6 +57,7 @@
                         <li><h7 class='fw-bolder'>Song 2 - "Make it Real"</h7><i> - Song Composer: The gets</i></li>
                         <li><h7 class='fw-bolder'>Song 3 - "Nobela"</h7><i> - Song Composer: Join the Club</i></li>
                         <li><h7 class='fw-bolder'>Song 4 - "Marry me, Marry you"</h7><i> - Song Composer: Darren Espanto</i></li>
+                        <li><h7 class='fw-bolder'>Song 5 - "Ngiti"</h7><i> - Song Composer: Ronnie Liang</i></li>
                         </ul>
                     </div>
                 </div>
