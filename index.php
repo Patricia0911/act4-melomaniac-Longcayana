@@ -55,6 +55,7 @@
                         <ul class="list-inline-item mb-0" type='none'>
                         <li><h7 class='fw-bolder'>Song 1 - "Easy On Me"</h7><i> - Song Composer: Adele</i></li>
                         <li><h7 class='fw-bolder'>Song 2 - "Make it Real"</h7><i> - Song Composer: The gets</i></li>
+                        <li><h7 class='fw-bolder'>Song 3 - "Nobela"</h7><i> - Song Composer: Join the Club</i></li>
 
                         </ul>
                     </div>
